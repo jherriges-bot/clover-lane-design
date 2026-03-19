@@ -1,0 +1,23 @@
+{
+  "name": "Clover Lane Design",
+  "short_name": "Clover Lane",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f1",
+  "theme_color": "#2f4f4f",
+  "description": "Crew timeclock and job costing app for Clover Lane Design",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
